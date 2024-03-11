@@ -8,6 +8,15 @@
 *.so
 *.dylib
 
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
 # Test binary, built with `go test -c`
 *.test
 
@@ -17,5 +26,8 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# Go workspace file
+# Workspace files
 go.work
+*.code-workspace
+
+.DS_Store
