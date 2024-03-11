@@ -6,6 +6,8 @@ This repository contains Golang code examples for [SOLID principles](https://en.
 
 Since the repository was created solely for educational purposes, the code examples given here do not contain tests, and the idiomatic approach to naming elements adopted in Golang is not used everywhere. All this was done for better and faster learning of the educational material. UML diagrams have also been included in the more complex examples to make it easier to understand as well.
 
+Although code examples for all design patterns have already been uploaded to this repository, they are still a work in progress. There are plans to add more descriptions and comments, as well as refactor some modules.
+
 ## Motivation
 
 Often, authors of books, courses and technical articles related to Golang omit or do not pay enough attention to the topic of design patterns, limiting themselves only to the topic of organizing object-oriented programming in the syntax of the language. This, in my opinion, creates a large gap in the knowledge of developers, since it is impossible to qualitatively develop an application or system without designing an architecture and using design patterns. This gap can be even more critical for developers who are learning Golang as their first programming language. That is why it is very important to know about the existence of design patterns, understand their implementation in the context of a specific programming language, and also be able to use them in practice. This repository aims to help in gaining this knowledge and skills while using Golang.
