@@ -6,7 +6,7 @@ This repository contains Golang code examples for [SOLID principles](https://en.
 
 Since the repository was created solely for educational purposes, the code examples given here do not contain tests, and the idiomatic approach to naming elements adopted in Golang is not used everywhere. All this was done for better and faster learning of the educational material. UML diagrams have also been included in the more complex examples to make it easier to understand as well.
 
-Although code examples for all design patterns have already been uploaded to this repository, they are still a work in progress. The [section](https://en.wikipedia.org/wiki/SOLID "SOLID principles sectin") devoted to the SOLID principles should be considered the most complete. For everyone else, it is still planned to add more descriptions and comments, as well as refactor some modules.
+Although code examples for all design patterns have already been uploaded to this repository, they are still a work in progress. The [section](solid "SOLID principles sectin") devoted to the SOLID principles should be considered the most complete. For everyone else, it is still planned to add more descriptions and comments, as well as refactor some modules.
 
 ## Motivation
 
